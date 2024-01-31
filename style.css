@@ -1,0 +1,49 @@
+.container {
+    background: rgb(218, 247, 166);
+    height: 200px;
+    width: 170px;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input {
+    margin-top: 8px;
+    border: none;
+    border-bottom: 2px solid rgb(102, 20, 210);
+    color: white;
+    background-color: rgb(218, 247, 166);
+    outline: none; 
+}
+
+input:hover {
+    color: blue
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    padding-inline: 57px;
+    border-radius: 20px;
+}
+
+button:hover {
+    color: whitesmoke;
+    background-color: rgb(196, 33, 33);
+    border: none
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(./background-dimension-3d-graphic-message-board-for-text-and-message-design-line-shadow-for-modern-web-design-free-vector\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+}
